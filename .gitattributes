@@ -1,0 +1,8 @@
+# 统一换行：仓库里存 LF，Windows 检出时 .bat 用 CRLF（cmd 更稳）
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.onnx binary
+*.jar binary
