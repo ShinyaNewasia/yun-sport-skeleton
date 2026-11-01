@@ -1,4 +1,4 @@
-# yun-sport-skeleton
+# yun-sport-skeleton云运动
 
 「云运动」类校园跑步 App 的自动化脚本 **骨架版**。
 
